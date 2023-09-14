@@ -1,4 +1,4 @@
-# IK2215_GUDP
+# Guaranteed UDP Transmission
 
 > This is a one-man course project from IK2215 in KTH.
 
